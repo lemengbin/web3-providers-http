@@ -7,7 +7,7 @@
     "license": "LGPL-3.0",
     "main": "src/index.js",
     "dependencies": {
-        "web3-core-helpers": "1.0.0-beta.27",
+        "web3-core-helpers": "git+https://github.com/lemengbin/web3-core-helpers.git#1.0.0-beta.27",
         "xhr2": "0.1.4"
     }
 }
